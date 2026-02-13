@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tinos-macbook-pro.tailc2bd2c.ts.net/$1",
-      "permanent": true
+      "destination": "https://tinos-macbook-pro.tailc2bd2c.ts.net/$1"
     }
   ]
 }
