@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tinos-macbook-pro.tailc2bd2c.ts.net/$1"
+      "destination": "/api/redirect"
     }
   ]
 }
